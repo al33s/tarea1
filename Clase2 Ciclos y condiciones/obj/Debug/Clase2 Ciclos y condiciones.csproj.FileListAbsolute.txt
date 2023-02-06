@@ -1,0 +1,8 @@
+D:\visual estudio\trabajos U\Clase2 Ciclos y condiciones\Clase2 Ciclos y condiciones\obj\Debug\Clase2 Ciclos y condiciones.csproj.AssemblyReference.cache
+D:\visual estudio\trabajos U\Clase2 Ciclos y condiciones\Clase2 Ciclos y condiciones\obj\Debug\Clase2 Ciclos y condiciones.csproj.SuggestedBindingRedirects.cache
+D:\visual estudio\trabajos U\Clase2 Ciclos y condiciones\Clase2 Ciclos y condiciones\obj\Debug\Clase2 Ciclos y condiciones.csproj.CoreCompileInputs.cache
+D:\visual estudio\trabajos U\Clase2 Ciclos y condiciones\Clase2 Ciclos y condiciones\bin\Debug\Clase2 Ciclos y condiciones.exe.config
+D:\visual estudio\trabajos U\Clase2 Ciclos y condiciones\Clase2 Ciclos y condiciones\bin\Debug\Clase2 Ciclos y condiciones.exe
+D:\visual estudio\trabajos U\Clase2 Ciclos y condiciones\Clase2 Ciclos y condiciones\bin\Debug\Clase2 Ciclos y condiciones.pdb
+D:\visual estudio\trabajos U\Clase2 Ciclos y condiciones\Clase2 Ciclos y condiciones\obj\Debug\Clase2 Ciclos y condiciones.exe
+D:\visual estudio\trabajos U\Clase2 Ciclos y condiciones\Clase2 Ciclos y condiciones\obj\Debug\Clase2 Ciclos y condiciones.pdb
